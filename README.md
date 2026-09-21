@@ -1,5 +1,3 @@
-# RastroLote Offline - Concurso INOVA 2026
-
 Aplicativo mobile para monitoramento inteligente de colheita, focado em operações com conexão instável.
 
 ## Tecnologias Utilizadas
@@ -18,4 +16,3 @@ Aplicativo mobile para monitoramento inteligente de colheita, focado em operaç�
 1. **Backend:** `cd rastrolote-backend` -> `npm install` -> `node server.js`
 2. **Frontend:** `cd rastrolote-app` -> `npm install` -> `npx expo start`
 
-*Desenvolvido para o Case 36 - Monitoramento Inteligente de Colheita.*
